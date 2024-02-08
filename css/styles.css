@@ -3236,7 +3236,7 @@ img.u-pull-left {
     line-height      : 1;
     letter-spacing   : -0.015em;
     margin-top       : calc(var(--text-huge-size) / 2 * -1.2);
-    margin-bottom    : var(--vspace-1_25);
+    /*margin-bottom    : var(--vspace-1_25);*/
     color            : white;
 }
 
@@ -3249,7 +3249,7 @@ img.u-pull-left {
     background-color    : var(--color-gray-4);
     background-image    : url(../images/intro-bg2.jpg);
     background-repeat   : no-repeat;
-    background-position : center;
+    background-position : top;
     background-size     : cover;
     position            : relative;
 }
